@@ -1,6 +1,5 @@
 import  create_schedule as cs
 import  work_with_user as wwu
-
 def schedule_bot():
     flag = True
     while flag == True:
